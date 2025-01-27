@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet a été réalisé dans le cadre d'un stage visant à identifier les caractéristiques des graphes liées aux performances des réseaux de neurones graphiques (GNN) pour la prédiction de la consommation électrique. Le travail comprend une analyse théorique approfondie des graphes utilisés pour entraîner les GNN, ainsi qu'une exploration des relations entre les propriétés structurelles des graphes et leur impact sur les performances des modèles.
+Ce projet a été réalisé dans le cadre d'un stage visant à identifier les caractéristiques des graphes liées aux performances des Graph neural network (GNN) pour la prédiction de la consommation électrique. Le travail comprend une analyse théorique approfondie des graphes utilisés pour entraîner les GNN, ainsi qu'une exploration des relations entre les propriétés structurelles des graphes et leur impact sur les performances des modèles.
 
 ## Contenu du dépôt
 
@@ -56,4 +56,4 @@ L'objectif final de ce projet est d'exploiter les analyses pour optimiser les gr
 
 ## Auteur
 
-Ce projet a été développé par [izehavi](https://github.com/izehavi) dans le cadre d'un stage.
+Ce projet a été développé par [Itai Zehavi](https://github.com/izehavi) dans le cadre d'un stage.
